@@ -31,8 +31,8 @@ Four publically available datasets from remote sensing domain are chosen for exp
 4. [Fundus Images](https://data.mendeley.com/datasets/7j9bv9vwsx/2) - The Department of Ophthalmology provided the 757 color fundus images included in this collection from the Hos- pital de Clnicas, Facultad de Ciencias Me ́dicas, Universidad Nacional de Asuncio ́n, Paraguay. The Zeiss brand’s Visucam 500 camera was utilized for the process of acquiring the retinographies. Fundus images have been classified into 7 distinct groups on a scale of 1 to 7.
 
 # Model Weights
- 
-1. [SSL Pretrained Model]([Pretext_Checkpoints/pretext chkpt](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/Pretext_Checkpoints/pretext%20chkpt))
+
+1. [SSL Pretrained Model]([http://www.lmars.whu.edu.cn/prof_web/zhongyanfei/e-code.html](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/Pretext_Checkpoints/pretext%20chkpt))
 
 # Results
 All the expriments have batch size of 256 and ResNet50 encoder.
