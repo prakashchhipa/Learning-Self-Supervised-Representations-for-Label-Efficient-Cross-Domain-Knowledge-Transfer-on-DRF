@@ -19,7 +19,7 @@ This work presents a novel label-efficient self- supervised representation learn
 # Domain Adaptation by Self-supervised Reporesentation Learning Method
 [SimCLR](http://proceedings.mlr.press/v119/chen20j.html) contrastive learning method employed for self-supervised representation learning part.
 <p align="center">
-  <img src="[https://github.com/muskaan712/figures/DR_Arch.png](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/DR_Arch.png)">
+  <img src="[[https://github.com/muskaan712/figures/DR_Arch.png](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/DR_Arch.png)](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/DR_Arch.png)">
 </p>
 
 # Datasets
@@ -32,7 +32,7 @@ Four publically available datasets from remote sensing domain are chosen for exp
 
 # Model Weights
  
-1. [SSL Pretrained Model](Pretext_Checkpoints/pretext chkpt)
+1. [SSL Pretrained Model]([Pretext_Checkpoints/pretext chkpt](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/Pretext_Checkpoints/pretext%20chkpt))
 
 # Results
 All the expriments have batch size of 256 and ResNet50 encoder.
