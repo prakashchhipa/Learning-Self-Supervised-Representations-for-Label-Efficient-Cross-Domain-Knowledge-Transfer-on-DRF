@@ -19,7 +19,7 @@ This work presents a novel label-efficient self- supervised representation learn
 # Domain Adaptation by Self-supervised Reporesentation Learning Method
 [SimCLR](http://proceedings.mlr.press/v119/chen20j.html) contrastive learning method employed for self-supervised representation learning part.
 <p align="center">
-  <img src="[[https://github.com/muskaan712/figures/DR_Arch.png](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/DR_Arch.png)](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/DR_Arch.png)">
+  <img src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/figures/contrastive_ssl_on_remote_sensing.PNG](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/DR_Arch.png">
 </p>
 
 # Datasets
