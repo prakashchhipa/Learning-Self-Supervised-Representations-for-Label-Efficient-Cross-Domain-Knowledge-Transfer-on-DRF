@@ -32,7 +32,7 @@ Four publically available datasets from remote sensing domain are chosen for exp
 
 # Model Weights
 
-1. [SSL Pretrained Model]([http://www.lmars.whu.edu.cn/prof_web/zhongyanfei/e-code.html](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/Pretext_Checkpoints/pretext%20chkpt))
+1. [SSL Pretrained Model](http://www.lmars.whu.edu.cn/prof_web/zhongyanfei/e-code.html](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/Pretext_Checkpoints/pretext%20chkpt)
 
 # Results
 All the expriments have batch size of 256 and ResNet50 encoder.
