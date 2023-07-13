@@ -4,12 +4,15 @@ Learning Self-Supervised Representations for Label Efficient Cross-Domain Knowle
 
 # Venue
 
-Accepted in International Joint Conference on Neural Networks (IJCNN) 2023
+Accepted at [International Joint Conference on Neural Networks (IJCNN) 2023](https://2023.ijcnn.org/)
 
 
 # Article
 
-[Arxiv Version]()
+[Arxiv Version](https://arxiv.org/abs/2304.11168)
+
+# Recorded Presentation
+[![IMAGE ALT TEXT HERE](https://github.com/prakashchhipa/Learning-Self-Supervised-Representations-for-Label-Efficient-Cross-Domain-Knowledge-Transfer-on-DRF/blob/main/figures/dir_thumbnail.PNG)](https://www.youtube.com/watch?v=j1c0Teb5GDA)
 
 
 # Abstract
